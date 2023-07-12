@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h1{
+    color: #fc0303
+}
+
+.cor1{
+    background-color:#fc0303 ;
+}
+
+button{
+    background: #fc0303;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	text-shadow: none;
+}
+button:hover {
+	background: #000;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	text-shadow: none;
+}
